@@ -7,11 +7,11 @@ This repository contains code for sonifying gravitational wave data, turning it 
 
 ### Sonification with sampling rate of 44100 Hz (standard)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VLNdrMwfYcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://github.com/practice404/GW-sonification/assets/74960567/529e728a-1ad8-4d32-8aa3-72825fab5163
 
 ### Sonification with sampling rate of 4096 Hz (Original sampling rate of data)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sA622n7dgHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://github.com/practice404/GW-sonification/assets/74960567/58c12abb-08c7-4a98-8a17-3fec16b84ca9
 
 ## Dependencies
 
